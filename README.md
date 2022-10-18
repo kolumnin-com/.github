@@ -1,1 +1,2 @@
-# .github
+# .GitHub
+README.md
