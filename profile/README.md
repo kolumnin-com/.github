@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!---->
+Please feel free to contribute through feedback.
 
 **Here are some ideas to get you started:**
 
